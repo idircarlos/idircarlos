@@ -1,13 +1,9 @@
 <h1 align="center">Hi everyone, I'm Idir Carlos Aliane</h1>
 <h3 align="center">A programming enjoyer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idircarlos&label=Profile%20views&color=0e75b6&style=flat" alt="idircarlos" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idircarlos" alt="idircarlos" /></a> </p>
-
 - 🌱 I’m currently learning **nodejs**
 
-- 👨‍💻 All of my projects are available at [idircarlos@github.io](idircarlos@github.io)
+- 👨‍💻 All of my projects are available at **idircarlos@github.io**
 
 - 📫 How to reach me **idircarlos@gmail.com**
 
