@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [idircarlos.github.io](idircarlos.github.io)
 
-- 📫 How to reach me **idircarlo@gmail.com**
+- 📫 How to reach me **idircarlos@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
