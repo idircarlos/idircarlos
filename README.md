@@ -2,9 +2,6 @@
 <h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on **Amazon**
-
-- 👨‍💻 All of my projects are available at [idircarlos.github.io](idircarlos.github.io)
-
 - 📫 How to reach me **idircarlos@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
