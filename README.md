@@ -1,4 +1,4 @@
-<h1 align="center">Aliane Crespo, Idir</h1>
+<h1 align="center">Aliane Crespo, Idir Carlos</h1>
 <h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on **Amazon**
